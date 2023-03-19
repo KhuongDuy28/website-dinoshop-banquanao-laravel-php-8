@@ -1,0 +1,29 @@
+.mb-3, .custom-select, .text-product, .col-md, .row, .text-silder {
+    margin-top: 20px;
+}
+.lbl {
+    margin-bottom: 8px;
+}
+#image_show {
+    margin: 5px 0px 0px 5px;
+}
+.fas.fa-trash {
+    color: #ff3e1d;
+    width: 100% !important;
+    height: 100% !important;
+}
+.fas.fa-trash:hover {
+    color: #fff !important;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.flex.justify-between.flex-1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+

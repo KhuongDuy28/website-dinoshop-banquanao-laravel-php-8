@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body, .main-menu > li > a, .ltext-102 {
+    font-family: 'Roboto', sans-serif ;
+}
+.hidden  {
+    display: none !important;
+}
+.stext-107.cl7.hov-cl1.trans-04, .block1-name.ltext-102.trans-04.p-b-8, .stext-106.cl6.hov1.bor3.trans-04.m-r-32.m-tb-5how-active1, 
+.ltext-103.cl5, .flex-c-m.stext-101.cl5.size-103.bg2.bor1.hov-btn1.p-lr-15.trans-04, .filter-link.stext-106.trans-04, 
+.mtext-102.cl2.p-b-15, .stext-107.cl6.p-lr-25, .ltext-106.cl5.txt-center, .select2-selection__rendered, .nav-link.active, 
+.column-1, .column-2, .column-3, .column-4, .column-5, .stext-111.cl8.plh3.size-111.p-lr-15, .stext-109.cl8.hov-cl1.trans-04
+.flex-c-m.stext-101.cl2.size-119.bg8.bor13.hov-btn3.p-lr-15.trans-04.pointer.m-tb-10, 
+.stext-104.cl2.plh4.size-117.bor13.p-lr-20.m-r-10.m-tb-5, .mtext-103.cl2, .header-cart-item-name.m-b-18.hov-cl1.trans-04,
+.flex-c-m.stext-101.cl0.size-116.bg3.bor14.hov-btn3.p-lr-15.trans-04.pointer, .header-cart-total.w-full.p-tb-40,
+.flex-c-m.stext-101.cl2.size-118.bg8.bor13.hov-btn3.p-lr-15.trans-04.pointer.m-tb-5, .text-menu,
+.flex-c-m.stext-101.cl0.size-107.bg3.bor2.hov-btn3.p-lr-15.trans-04.m-r-8.m-b-10,
+.flex-c-m.stext-101.cl0.size-107.bg3.bor2.hov-btn3.p-lr-15.trans-04.m-b-10,
+.mtext-109.cl2.p-b-30, .mtext-101.cl2, .mtext-105.cl2.js-name-detail.p-b-14, .stext-102.cl3.p-t-23,
+.flex-c-m.stext-101.cl2.size-119.bg8.bor13.hov-btn3.p-lr-15.trans-04.pointer.m-tb-10, .stext-106.cl6.hov1.bor3.trans-04.m-r-32.m-tb-5.how-active1 {
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.select2-results__option.select2-results__option--highlighted {
+    display: none;
+}
+.flex-c-m.stext-101.cl5.size-103.bg2.bor1.hov-btn1.p-lr-15.trans-04:hover {
+    cursor: pointer;
+}
+.alert.alert-success {
+    text-align: center;
+}
+.column-3, .column-4 {
+    text-align: center !important;
+}
