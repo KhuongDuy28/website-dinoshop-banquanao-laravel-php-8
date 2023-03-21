@@ -2,6 +2,7 @@
 
 @section('content')
     <form class="bg0 p-t-130 p-b-85" method="post">
+
         @include('admin.alert')
 
         @if (count($products) != 0)
@@ -137,6 +138,7 @@
                     </div>
                 </div>
             </div>
+            
     </form>
     @else
         <div class="text-center"><h2 style="margin-bottom: 50px">Giỏ Hàng Trống</h2></div>
